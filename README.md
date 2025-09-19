@@ -49,8 +49,7 @@ int main()
     String1.ReverseWordsInString();
     cout << "Reversed Words: " << String1.Value << endl;
 
-    String1.ReplaceWord("Sami", "Hamza");
-    cout << "After Replace: " << String1.Value << endl;
+    cout << "After Replace: " << String1.ReplaceWord("Sami", "Hamza") << endl;
 
     return 0;
 }

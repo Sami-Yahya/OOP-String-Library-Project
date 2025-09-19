@@ -1,9 +1,9 @@
 # 📌 Project 8: String Library (OOP)
 
 ## 🔹 Overview
-This project was implemented as part of **Course 10** in the **Programming Advices Track (https://programmingadvices.com/)** by **Dr. Mohammed Abu-Hadhoud**.  
+This project was implemented as part of **Course 10** *OOP as it Should Be* in the **Programming Advices Track (https://programmingadvices.com/)** by **Dr. Mohammed Abu-Hadhoud**.  
 
-The main idea is to **reuse all the string-related functions** we built earlier in **Course 7 – Algorithms & Problem Solving Level 3**, but instead of rewriting them, we collected them inside a **separate header file** (`clsString.h`) and wrapped them in a **class** to apply **Object-Oriented Programming (OOP) principles**.
+The main idea is to **reuse all the string-related functions** we built earlier in **Course 7 – Algorithms & Problem Solving (Level 3)**, but instead of rewriting them, we collected them inside a **separate header file** (`clsString.h`) and wrapped them in a **class** to apply **Object-Oriented Programming (OOP) principles**.
 
 ---
 
@@ -17,7 +17,7 @@ The main idea is to **reuse all the string-related functions** we built earlier 
 ---
 
 ## 📂 Project Structure
-📁 Project-8-String-Library-OOP
+📁 OOP-String-Library-Project
 
  clsString.h # Header file containing the clsString class and all functions
 

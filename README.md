@@ -1,4 +1,4 @@
-# 📌 Project 8: String Library (OOP)
+# 📌 String Library (OOP)
 
 ## 🔹 Overview
 This project was implemented as part of **Course 10** *OOP as it Should Be* in the **Programming Advices Track (https://programmingadvices.com/)** by **Dr. Mohammed Abu-Hadhoud**.  

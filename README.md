@@ -11,7 +11,7 @@ The main idea is to **reuse all the string-related functions** we built earlier 
 - ✅ **Reusability**: No need to rewrite string functions; they are all encapsulated in one class.  
 - ✅ **Encapsulation**: The internal implementation of each function is hidden, so we can call methods directly on the object without worrying about their internal logic.  
 - ✅ **Static Functions**: Functions can be used directly without creating an object.  
-- ✅ **Overloading**: We created overloaded functions – one that takes parameters and another that works directly on the object’s value. This makes updates easy: if we modify a function, all dependent functions benefit automatically.  
+- ✅ **Overloading**: We created overloaded functions – one that takes parameters and another that works directly on the object’s value. This makes updates easy: if we modify a function, all dependent functions benefit automatically. 
 - ✅ **Flexibility**: Developers can either use class objects or call the static functions directly.  
 
 ---
